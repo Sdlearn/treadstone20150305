@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="hydra" CodeName="hydra.py" Platform="" Service="tcp" Type="part3" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-01-26" Vulnerability="N/A">
+Use hydra tool to crack password
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

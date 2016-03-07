@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="svn" CodeName="svn.py" Platform="" Service="http" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-02-12" Vulnerability="N/A">
+Successfully exploiting will identify host has svn leak or not.
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

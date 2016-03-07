@@ -1,0 +1,44 @@
+关于:
+treadstone是一个完整的攻击框架，可以提高渗透测试的效率与准确性。采用了模块化的编码方式，脚本可独立运行，提供了丰富的功能。
+
+功能：
+信息收集，收集相关域名的子域名及ip信息
+远程溢出攻击
+Ddos攻击
+web漏洞扫描与验证
+批量漏洞利用、扫描
+二次开发接口
+
+
+版本需求：
+python 2.7 or later
+ruby 1.9 or later(部分第三方工具需要该运行环境)
+
+第三方工具：
+whatweb
+hydra
+
+安装方法：
+1、安装pip
+wget -O https://bootstrap.pypa.io/get-pip.py
+python get-pip.py
+2、安装python库
+pip install -r requirements.txt
+3、下载第三方工具，并进行安装，并在/usr/bin下创建link文件
+如whatweb
+ln -s /tmp/whatweb/whatweb /usr/bin/whatweb
+
+二次开发：
+1、针对web漏洞扫描与验证提供了专用API与数据结构，按照预定格式编写即可
+2、根据利用脚本的不用分类，编写相应的独立运行的脚本，拷贝到相应目录后，添加漏洞描述文件(xml格式)，并将利用脚本的信息添加到配置文件(conf/conf.py)中即可
+
+感谢：
+参考了很多开源的代码，非常感谢他们的共享精神！
+sqlmap
+insightscan.py
+mst 1.0
+exploitpack
+fofa
+
+bug反馈：
+16362505@qq.com

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="whatweb" CodeName="whatweb.py" Platform="" Service="http" Type="part3" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-01-28" Vulnerability="N/A">
+Use whatweb tool to identify web footprint
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

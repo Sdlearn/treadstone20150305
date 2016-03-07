@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="rsync" CodeName="rsync.py" Platform="" Service="tcp" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-02-12" Vulnerability="N/A">
+Successfully exploiting will identify host have rsync or not.
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

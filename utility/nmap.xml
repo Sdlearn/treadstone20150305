@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="nmap" CodeName="nmap.py" Platform="" Service="tcp" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-01-26" Vulnerability="N/A">
+Use nmap tool to identify port and service
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

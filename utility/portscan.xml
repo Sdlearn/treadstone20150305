@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="portscan" CodeName="portscan.py" Platform="" Service="tcp" Type="nmap" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-01-26" Vulnerability="N/A">
+Use tcp connection to identify port is open or not
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="fastping" CodeName="fastping.py" Platform="" Service="icmp" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="zzt" Date="2015-01-26" Vulnerability="N/A">
+Successfully exploiting will identify host is alive or not.
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

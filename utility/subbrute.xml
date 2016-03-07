@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="subbrute" CodeName="subbrute.py" Platform="" Service="dns" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="rook" Date="2015-02-06" Vulnerability="N/A">
+Enumnate sub dns
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>

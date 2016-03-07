@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+
+<Exploit NameXML="xsscrapy" CodeName="xsscrapy.py" Platform="" Service="xss" Type="utility" RemotePort="" LocalPort="" ShellcodeAvailable="" ShellPort="" SpecialArgs="">
+</Exploit>
+
+<Information Author="Dan McInerney" Date="2015-02-6" Vulnerability="N/A">
+Xss scanner tool
+</Information>
+
+<Targets>
+</Targets>
+
+</Module>
